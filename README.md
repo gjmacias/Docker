@@ -1,4 +1,4 @@
-# Docker
+# Mis proyectos con Redes y Docker
 
 ## 🕸️ NetPractice
 ► [Visualicemos como se comunican los dispositivos a la red](https://github.com/gjmacias/Net_practice)
